@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Guida_Tecnica_Avviso_Analogico_V2.1"
+settings_project_name = "Guida tecnica avviso analogico"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Guida_Tecnica_Avviso_Analogico_V2.1'
-settings_file_name = 'Guida_Tecnica_Avviso_Analogico_V2.1'
+settings_basename = 'pagopa-guidatecnica'
+settings_file_name = 'pagopa-guidatecnica'
 
 # -- No need to change below here
 
