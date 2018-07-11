@@ -9,8 +9,8 @@
 | **Versione** **2.1 -** **maggio 2018**                 |
 +--------------------------------------------------------+
 
-**Scopo Del Documento**
-=======================
+Scopo Del Documento
+===================
 
 Lo scopo del documento è quello di fornire indicazioni per la produzione
 dell’avviso analogico di pagamento pagoPA.
