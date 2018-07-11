@@ -13,8 +13,8 @@ Guida tecnica avviso analogico
    _docs/SCOPO_DEL_DOCUMENTO.rst
    _docs/MODELLO_DI_AVVISO_DI_PAGAMENTO.rst
    _docs/Capitolo1.rst
-   _docs/Allegato_1_Modello_di_avviso_di_pagamento_v2.1.pdf
-   _docs/Allegato_2_Specifiche_Tecniche_v2.1.pdf
+   _docs/Allegato1.pdf
+   _docs/Allegato2.pdf
 
  
 .. |AGID_logo_carta_intestata-02.png| image:: _docs/media/header.png
