@@ -13,13 +13,13 @@
 1. istruzioni per la produzione
 ===============================
 
-`In Allegato 1 - (Modello di avviso in formato PDF) <Allegato_1_Modello_di_avviso_di_pagamento_v2.1.pdf>`_ è fornito il
+`In Allegato 1 - (Modello di avviso in formato PDF) <http://pagopa-avvisoanalogico.readthedocs.io/it/latest/_docs/Allegato_1_Modello_di_avviso_di_pagamento_v2.1.pdf>`_ è fornito il
 modello di avviso di pagamento utilizzabile sia per il pagamento in
 unica soluzione sia per il pagamento dello stesso importo frazionato in
 rate. Ogni pagina del modello è completamente riproducibile in un foglio
 di formato A4.
 
-`L’Allegato 2 - (Specifiche Tecniche) <Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ fornisce le indicazioni
+`L’Allegato 2 - (Specifiche Tecniche) <http://pagopa-avvisoanalogico.readthedocs.io/it/latest/_docs/Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ fornisce le indicazioni
 specifiche per la produzione del documento in tutte le casistiche
 previste.
 
