@@ -15,6 +15,7 @@ Guida tecnica avviso analogico
    _docs/Capitolo1.rst
    _docs/Allegato1.pdf
    _docs/Allegato2.pdf
+   _docs/Allegati.rst
 
  
 .. |AGID_logo_carta_intestata-02.png| image:: _docs/media/header.png
