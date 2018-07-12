@@ -13,8 +13,6 @@ Guida tecnica avviso analogico
    _docs/SCOPO_DEL_DOCUMENTO.rst
    _docs/MODELLO_DI_AVVISO_DI_PAGAMENTO.rst
    _docs/Capitolo1.rst
-   _docs/Allegato1.pdf
-   _docs/Allegato2.pdf
    _docs/Allegati.rst
 
  
