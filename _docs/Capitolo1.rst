@@ -19,7 +19,7 @@ unica soluzione sia per il pagamento dello stesso importo frazionato in
 rate. Ogni pagina del modello è completamente riproducibile in un foglio
 di formato A4.
 
-`L’Allegato 2 - (Specifiche Tecniche) <./Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ fornisce le indicazioni
+`L’Allegato 2 - (Specifiche Tecniche) <https://github.com/italia/pagopa-avvisoanalogico-docs/blob/master/_docs/Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ fornisce le indicazioni
 specifiche per la produzione del documento in tutte le casistiche
 previste.
 
@@ -114,7 +114,7 @@ immagini o etichette segnaposto come da esempi in figura:
 
 In entrambi i casi gli oggetti segnaposto, specifici del singolo avviso,
 sono identificati nel modello da un nome univoco compreso fra parentesi
-angolari in modo tale da essere referenziati `nell’Allegato 2 (Specifiche Tecniche) <Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ 
+angolari in modo tale da essere referenziati `nell’Allegato 2 (Specifiche Tecniche) <https://github.com/italia/pagopa-avvisoanalogico-docs/blob/master/_docs/Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_ 
 con il quale vengono integrate le indicazioni mancanti per la
 stampa dell’avviso.
 
@@ -128,7 +128,7 @@ riconoscono le seguenti tipologie:
 
    -  **A scelta multipla**: il cui contenuto è impostato dall’EC che
       però è vincolato a scegliere da un set di alternative definite da
-      AgID e non modificabili (`vedi ad esempio <pagamento_rateale> nell’Allegato2 - (Specifiche Tecniche) <Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_)
+      AgID e non modificabili (`vedi ad esempio <pagamento_rateale> nell’Allegato2 - (Specifiche Tecniche) <https://github.com/italia/pagopa-avvisoanalogico-docs/blob/master/_docs/Allegato_2_Specifiche_Tecniche_v2.1.PDF>`_)
 
    -  **A testo libero**: il cui contenuto è impostato liberamente
       dall’EC, purché la lunghezza non ecceda il numero di caratteri
